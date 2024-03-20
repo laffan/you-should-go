@@ -1,0 +1,9 @@
+.QR {
+  position: fixed;
+  bottom: 0;
+  canvas {
+    margin: 0;
+    display: block;
+  }
+  z-index: 100;
+}

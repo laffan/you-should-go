@@ -1,0 +1,14 @@
+
+html,
+input {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
+
+
+@import url(global/reset.scss);
+@import url(components/QR.scss);
+@import url(components/Message.scss);
+@import url(pages/Chat.scss);
+@import url(pages/Login.scss);

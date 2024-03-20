@@ -1,0 +1,19 @@
+.Message {
+  margin-bottom: 15px;
+
+  &__Name {
+    font-weight: bold;
+    opacity: .3;
+  }
+  &__Date {
+    display: none;
+  }
+  &__Bubble {
+    margin-top: 5px;
+    border-radius: 10px;
+    display: block;
+    padding: 10px 30px;
+    font-size: 20px;
+    color: white;
+  }
+}
