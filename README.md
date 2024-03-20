@@ -2,8 +2,10 @@
 
 You Should Go  is a chatroom populated by humans, a host named F.R.I.E.N.D. (Frequently Random Interactive Entity Navigating Dialogues) and a series of AI mimics, who take on the personalities of the human chatters and try to get F.R.I.E.N.D to boot them. 
 
-You Should Go was designed to be a theater piece, where viewers could log on and engage with F.R.I.E.N.D. and evake the mimics in real time. It asks 
+You Should Go was designed to be a theater piece, where viewers could log on and engage with F.R.I.E.N.D. and evake the mimics in real time. 
 
+
+![demo of You Should Go](demo.gif)
 
 ## Installation
 
